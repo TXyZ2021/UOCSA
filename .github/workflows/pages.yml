@@ -1,6 +1,3 @@
-.github/workflows/pages.yml
-name: Pages
-
 on:
   push:
     branches:
